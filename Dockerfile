@@ -8,3 +8,4 @@ RUN pip install njsscan
 
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
+#tests
